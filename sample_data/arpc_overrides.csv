@@ -1,0 +1,7 @@
+segment,cohort_month,age0_arpc_manual,mom_0_to_1_manual_pct,mom_1_to_2_manual_pct,mom_2_to_3_manual_pct,use_override_flag
+Pro,2026-01-01,42.75,0.02,0.015,0.01,1
+Pro,2026-02-01,42.75,0.02,0.015,0.01,1
+Pro,2026-03-01,42.75,0.02,0.015,0.01,1
+Enterprise,2026-01-01,142.5,0.02,0.015,0.01,1
+Enterprise,2026-02-01,142.5,0.02,0.015,0.01,1
+Enterprise,2026-03-01,142.5,0.02,0.015,0.01,1
